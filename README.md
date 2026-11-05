@@ -34,7 +34,7 @@ This is a static website. No installation or build step is needed.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/arnavgiri/typing-speed-test.git
+   git clone https://github.com/arnavgiri/arnavgiri.github.io.git
    ```
 
 2. Open `index.html` in your browser.
@@ -58,15 +58,13 @@ The repository also includes a GitHub Actions workflow to update the stylesheet 
 
 The app uses browser `localStorage` to remember the selected duration, theme, and recent typing results. Your typing activity stays on your device. Use **Clear history** in the app to remove saved test results.
 
-## Deploy with GitHub Pages
+## Deployment
 
-In your repository, open **Settings → Pages**, choose **Deploy from a branch**, select **main** and **/(root)**, then save. Once GitHub Pages has deployed, the site will be available at:
-
-https://arnavgiri.github.io/typing-speed-test/
+This project is served from the `typing-speed-test/` folder of the [Arnav Giri portfolio repository](https://github.com/arnavgiri/arnavgiri.github.io).
 
 ## Author
 
-Created by **[Arnav Giri](https://biharkalyan.in/arnav-giri/)**.
+Created by **Arnav Giri**.
 
 ---
 
